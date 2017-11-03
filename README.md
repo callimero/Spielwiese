@@ -3,7 +3,8 @@ Demos zur Vektorgrafik auf dem Teensy für Oszilloskope.
 
 <p align="center">
   <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/MakeyDemo.jpg?raw=true" width="250"/>
-  <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/Lines.jpg?raw=true" width="250"/>
+  <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/Sparks.jpg?raw=true" width="250"/>
+  <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/World.jpg?raw=true" width="250"/>
 </p>
 
 Für das Make-Magazin
