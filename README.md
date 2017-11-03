@@ -1,6 +1,9 @@
 # Simple
 Demos zur Vektorgrafik auf dem Teensy für Oszilloskope.
 
+
+![MakeyDemo Image](https://github.com/callimero/Spielwiese/Bilder/MakeyDemo.jpg)  
+
 Für das Make-Magazin
 
 
