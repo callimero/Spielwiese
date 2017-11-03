@@ -1,5 +1,5 @@
 # Simple
-Simpler Framework um Vektorgrafik auf dem Teensy für Oszilloskope zu entwickeln.
+Demos zur Vektorgrafik auf dem Teensy für Oszilloskope.
 
 Für das Make-Magazin
 
