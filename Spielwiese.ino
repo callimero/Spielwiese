@@ -1,10 +1,11 @@
 /*
-   Vector Grafik auf Oszilloskop
+   Vektor Grafik auf Oszilloskop
 
-   Sehr einfaches Grundgerüst.
+   Spielwiese für Demos. 
 
-   Alle Zeichenfunktionen im Tab "Video" einbauen!
-   
+   Im Tab Demoloop werden die einzelnen Demos aufgerufen, gesteuert durch Serial Monitor
+   Im Tab Demos sind dann die Demos und Globals definiert
+    
    Carsten Wartmann 2017 cw@blenderbuch.de
    Fürs Make-Magazin.de
 
