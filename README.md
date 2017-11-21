@@ -10,7 +10,7 @@ Demos zur Vektorgrafik auf dem Oszilloskop auf dem Teensy 3.x.
 
 Für das Make-Magazin.
 
-In der Arduino IDE das Spielwiese.ino aus dem gleichnamigen Ordner öffnen.
+In der Arduino IDE das Spielwiese.ino aus dem Spielwiese/ Ordner öffnen.
 
 
 Largely build onto Hudson Trammells teensyv/v.st project. v.st is a work from Trammell Hudson, License GPL
