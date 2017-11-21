@@ -168,15 +168,21 @@ void rnd_star2()
 
 // Weltkarte mit Hoystick bewegbar/skalierbar
 int wx, wy;
+int zoom = 20;
 void world()
 {
-  joystick();
-  wx = wx - joyx / 4;
-  wy = wy - joyy / 4;
-  draw_object(7, 2000 + wx, 2000 + wy, 2 + joyz / 4, 0);  // meine Karte ist auf 4 Objekte verteilt
-  draw_object(8, 2000 + wx, 2000 + wy, 2 + joyz / 4, 0);
-  draw_object(9, 2000 + wx, 2000 + wy, 2 + joyz / 4, 0);
-  draw_object(10, 2000 + wx, 2000 + wy, 2 + joyz / 4, 0);
+  if (!digitalRead(BUTT) == HIGH )
+  {
+    joystick();
+    wx = wx - joyx / 4;
+    wy = wy - joyy / 4;
+    zoom = 2 + joyz / 4;
+  }
+  draw_object(7, 2000 + wx, 2000 + wy, zoom, 0);  // meine Karte ist auf 4 Objekte verteilt
+  draw_object(8, 2000 + wx, 2000 + wy, zoom, 0);
+  draw_object(9, 2000 + wx, 2000 + wy, zoom, 0);
+  draw_object(10, 2000 + wx, 2000 + wy, zoom, 0);
+  //draw_string("Joy Button halten und Joystick bewegen!", 100, 50, 6);
 }
 
 
