@@ -1,6 +1,6 @@
 # Spielwiese
 
-Demos zur Vektorgrafik auf dem Teensy für Oszilloskope.
+Demos zur Vektorgrafik auf dem Oszilloskop auf dem Teensy 3.x.
 
 <p align="center">
   <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/MakeyDemo.jpg?raw=true" width="250"/>
@@ -8,8 +8,9 @@ Demos zur Vektorgrafik auf dem Teensy für Oszilloskope.
   <img src="https://github.com/callimero/Spielwiese/blob/master/Bilder/World.jpg?raw=true" width="250"/>
 </p>
 
-Für das Make-Magazin
+Für das Make-Magazin.
 
+In der Arduino IDE das Spielwiese.ino aus dem gleichnamigen Ordner öffnen.
 
 
 Largely build onto Hudson Trammells teensyv/v.st project. v.st is a work from Trammell Hudson, License GPL
